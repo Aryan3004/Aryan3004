@@ -15,12 +15,3 @@ while i < n:
     else:
         print("Student has passed\n")
     i = i + 1        
-# print(i)
-# L1 = [13, ]
-# x = 0
-# n = 1
-# while x < 9:
-#    L1.insert(x,n)
-#    x = x + 1
-#    n = n + 1
-# print(L1)
